@@ -14,4 +14,4 @@ Digital content in different file formats like pdfs, docs, ppts, emails have a l
 * Mphasis DeepInsights is a cloud-based cognitive computing platform that offers data extraction & predictive analytics capabilities. Need Customized Deep learning and Machine Learning Solutions? Get in Touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](https://aws.amazon.com/marketplace/pp/Mphasis-Annual-Reports-Mgmt-Discussion-Analysis/prodview-mmkpvuh52eyly)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-jvlejghougdd2)
